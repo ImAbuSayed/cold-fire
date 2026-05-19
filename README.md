@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cold-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cold Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-fire/) |
+| **Get License** | [License this song: Cold Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀ ਅੱਖਾਂ ਦਾ ਇਸ਼ਾਰਾ ਮੈਨੂੰ ਕਰੇ turn around
+> ਕਾਲੀ ਰਾਤ ਵਿੱਚ ਤੇਰਾ ਹੁਸਨ ਲੱਗੇ bright crown
+> ਮੈਂ ਤੇਰੇ ਪਿੱਛੇ ਫਿਰਦਾ ਹਾਂ ਬਣ ਕੇ crazy hound
+> ਤੇਰੀਆਂ ਯਾਦਾਂ ਵਿੱਚ ਮੇਰਾ ਦਿਲ ਹੋਇਆ spellbound
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
